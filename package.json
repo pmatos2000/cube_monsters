@@ -1,0 +1,23 @@
+{
+  "name": "cube_monsters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmatos2000/cube_monsters.git"
+  },
+  "author": "Paulo Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmatos2000/cube_monsters/issues"
+  },
+  "homepage": "https://github.com/pmatos2000/cube_monsters#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
